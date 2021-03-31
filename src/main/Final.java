@@ -1,6 +1,5 @@
 package main;
-public class TestFinal{
-//Welcome 
+public class Final{
 	public static void main(String args[]){
 		final StringBuilder sb= new StringBuilder("Geeks");
 		System.out.println(sb);
